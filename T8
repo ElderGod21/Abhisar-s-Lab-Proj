@@ -1,0 +1,18 @@
+<html>
+
+<head>
+    <title></title>
+</head>
+
+<body>
+    <a href="#bottom">bottom section</a>
+
+    <h1>Thor</h1>Thor is the most powerful avenger and my favourite one</p>
+    <img
+        src="https://images.hindustantimes.com/img/2022/06/29/550x309/_63e261d6-a31f-11ea-b043-295af9ca78f2_1656486617730.jpg">
+    <p>I like playing games</p>
+
+    <a href="#top">go to the top</a>
+    <div id="bottom"> ...</div>
+
+</body>o
