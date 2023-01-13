@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <h1>About MySelf</h1>
+    <p>Hey! I am Abhisar Trivedi, I am from South Delhi. I am currently studying in RGIPT, pursuing B.Tech in IT branch.
+    </p>
+    <h2>About My Hobbies</h2>
+    <p>I like studying about universe and the unknown, i want to do different things, experience everything
+        I like sports and working out in the gym.
+    </p>
+    <h3>What will i do ?</h2>
+        <p>Well, i am not quite sure about that myself but i am exploring stuff and gaining a better knowledge about
+            everything to help myself for deciding what would be good for me to do.
+
+        </p>
+
+</body>
+
+</html>
